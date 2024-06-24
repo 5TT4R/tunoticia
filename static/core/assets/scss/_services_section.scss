@@ -46,20 +46,7 @@
             }
         }
         // before-img
-        &::before{
-            background-image: url(../img/service/services_bg.png);
-            content: "";
-            position: absolute;
-            min-width: 221px;
-            height: 216px;
-            right: 0px;
-            bottom: 0px;
-            z-index: -1;
-            @include transition(.4s);
-            @media #{$xs}{
-                display: none;
-            }
-        }
+       
     }
 }
 

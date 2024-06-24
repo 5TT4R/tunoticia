@@ -231,19 +231,12 @@ p {
 }
 
 /* line 38, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_common.scss */
-.bg-img-1 {
-  background-image: url(../img/slider/slider-img-1.jpg);
-}
+
 
 /* line 41, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_common.scss */
-.bg-img-2 {
-  background-image: url(../img/background-img/bg-img-2.jpg);
-}
+
 
 /* line 44, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_common.scss */
-.cta-bg-1 {
-  background-image: url(../img/background-img/bg-img-3.jpg);
-}
 
 /* line 49, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_common.scss */
 .img {
@@ -4060,21 +4053,7 @@ hr {
 }
 
 /* line 49, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_services_section.scss */
-.services-area .single-services::before {
-  background-image: url(../img/service/services_bg.png);
-  content: "";
-  position: absolute;
-  min-width: 221px;
-  height: 216px;
-  right: 0px;
-  bottom: 0px;
-  z-index: -1;
-  -webkit-transition: all 0.4s ease-out 0s;
-  -moz-transition: all 0.4s ease-out 0s;
-  -ms-transition: all 0.4s ease-out 0s;
-  -o-transition: all 0.4s ease-out 0s;
-  transition: all 0.4s ease-out 0s;
-}
+
 
 @media (max-width: 767px) {
   /* line 49, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_services_section.scss */
@@ -6480,19 +6459,7 @@ hr {
 }
 
 /* line 1, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_bradcam.scss */
-.breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
-}
 
-/* line 4, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_bradcam.scss */
-.breadcam_bg_1 {
-  background-image: url(../img/banner/bradcam2.png);
-}
-
-/* line 7, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_bradcam.scss */
-.breadcam_bg_2 {
-  background-image: url(../img/banner/bradcam3.png);
-}
 
 /* line 10, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_bradcam.scss */
 .bradcam_area {
