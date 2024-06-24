@@ -13,3 +13,4 @@ requests
 django-multi-captcha-admin
 cloudinary
 django-cloudinary-storage
+whitenoise
